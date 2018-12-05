@@ -21,7 +21,7 @@ namespace calc
                 Assert.AreEqual(30, maht.add(10, 20));
             }
             
-                        
+                         
             [TestCase]
 
             public void TestAddLOE()
